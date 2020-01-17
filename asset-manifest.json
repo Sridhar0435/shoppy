@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/shoppy/static/css/main.8be7aa8c.chunk.css",
+    "main.js": "/shoppy/static/js/main.1bafffb0.chunk.js",
+    "main.js.map": "/shoppy/static/js/main.1bafffb0.chunk.js.map",
+    "runtime-main.js": "/shoppy/static/js/runtime-main.add4d575.js",
+    "runtime-main.js.map": "/shoppy/static/js/runtime-main.add4d575.js.map",
+    "static/css/2.3184cb50.chunk.css": "/shoppy/static/css/2.3184cb50.chunk.css",
+    "static/js/2.0872ad3d.chunk.js": "/shoppy/static/js/2.0872ad3d.chunk.js",
+    "static/js/2.0872ad3d.chunk.js.map": "/shoppy/static/js/2.0872ad3d.chunk.js.map",
+    "index.html": "/shoppy/index.html",
+    "precache-manifest.c5c28a503ce74af6ada4ea4f5f73af38.js": "/shoppy/precache-manifest.c5c28a503ce74af6ada4ea4f5f73af38.js",
+    "service-worker.js": "/shoppy/service-worker.js",
+    "static/css/2.3184cb50.chunk.css.map": "/shoppy/static/css/2.3184cb50.chunk.css.map",
+    "static/css/main.8be7aa8c.chunk.css.map": "/shoppy/static/css/main.8be7aa8c.chunk.css.map",
+    "static/js/2.0872ad3d.chunk.js.LICENSE": "/shoppy/static/js/2.0872ad3d.chunk.js.LICENSE",
+    "static/media/font-awesome.min.css": "/shoppy/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/bootstrap.min.css": "/shoppy/static/media/glyphicons-halflings-regular.fa277232.woff",
+    "static/media/logo.svg": "/shoppy/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.add4d575.js",
+    "static/css/2.3184cb50.chunk.css",
+    "static/js/2.0872ad3d.chunk.js",
+    "static/css/main.8be7aa8c.chunk.css",
+    "static/js/main.1bafffb0.chunk.js"
+  ]
+}
